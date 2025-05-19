@@ -1,8 +1,0 @@
-/home/vintik/unity_2.1/2DCollectCouple/.utmp/RelWithDebInfo/65k1o4b1/arm64-v8a/CMakeFiles/edit_cache.dir
-/home/vintik/unity_2.1/2DCollectCouple/.utmp/RelWithDebInfo/65k1o4b1/arm64-v8a/CMakeFiles/rebuild_cache.dir
-/home/vintik/unity_2.1/2DCollectCouple/.utmp/RelWithDebInfo/65k1o4b1/arm64-v8a/GameActivity/CMakeFiles/game.dir
-/home/vintik/unity_2.1/2DCollectCouple/.utmp/RelWithDebInfo/65k1o4b1/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
-/home/vintik/unity_2.1/2DCollectCouple/.utmp/RelWithDebInfo/65k1o4b1/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
-/home/vintik/unity_2.1/2DCollectCouple/.utmp/RelWithDebInfo/65k1o4b1/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
-/home/vintik/unity_2.1/2DCollectCouple/.utmp/RelWithDebInfo/65k1o4b1/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
-/home/vintik/unity_2.1/2DCollectCouple/.utmp/RelWithDebInfo/65k1o4b1/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
